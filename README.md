@@ -1,5 +1,7 @@
 # lab-02
 
+> Pair programming with [Dayne Daylong](https://github.com/Gr8-Dayne)
+
 Number and name of feature: #1: Display images
 
 Estimate of time needed to complete: 1hr
@@ -20,7 +22,7 @@ Start time: 10:00 AM
 
 Finish time: 12:00 PM
 
-Actual time needed to complete: 2 hr
+Actual time needed to complete: 2.5 hr
 
 ***
 
