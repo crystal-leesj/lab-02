@@ -1,5 +1,7 @@
 # lab-02
 
+> Pair programming with [Dayne Daylong](http://google.com)
+
 Number and name of feature: #1: Display images
 
 Estimate of time needed to complete: 1hr
