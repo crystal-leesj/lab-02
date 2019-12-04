@@ -1,9 +1,9 @@
 section {
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   float: left;
-  border: 2px solid salmon;
-  margin: 20px;
+  /* border: 2px solid salmon; */
+  margin: 24px;
 }
 
 img {
