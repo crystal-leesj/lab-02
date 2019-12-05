@@ -67,7 +67,7 @@ function readJsonData() {
       })
     })
     .then(() => {
-      allImages.forEach( image =>{
+      allImages.forEach(image =>{
         image.renderHornObject();
         image.renderKeywords();
       })
