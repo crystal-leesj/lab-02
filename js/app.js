@@ -29,7 +29,7 @@ HornImage.prototype.renderHornObject = function() {
 }
 
 
-HornImage.prototype.renderKeywords = function() {
+HornImage.prototype.selectByKeyword = function() {
   let filterKeywords = [];
   // remove all elements except for first one
   $('option').not(':first').remove();
@@ -67,9 +67,9 @@ function readJsonData() {
       })
     })
     .then(() => {
-      allImages.forEach(image =>{
+      allImages.forEach( image =>{
         image.renderHornObject();
-        image.renderKeywords();
+        image.selectByKeyword();
       })
     })
 }
